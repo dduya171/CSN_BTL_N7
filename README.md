@@ -1,7 +1,7 @@
 # BTL Nhóm 7 
 -- Website bán hàng giày dép -- 
 
-Thành viên : 
+Members :
               Đinh Đăng Duy Anh
               Vũ Thị Hường      
               Lê Văn Phúc        
