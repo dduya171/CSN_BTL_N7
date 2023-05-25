@@ -1,8 +1,7 @@
-# BTL Nhóm 7 
+# BTL_Nhóm 7_TTCSN
 -- Website bán hàng giày dép -- 
-
-              Đinh Đăng Duy Anh
-              Lê Văn Phúc        
-              Lê Thị Ngọc Ánh          
-              Phạm Thị Liễu 
-              Vũ Thị Hường 
+Thành viên nhóm: + Đinh Đăng Duy Anh
+                 + Lê Văn Phúc        
+                 + Lê Thị Ngọc Ánh          
+                 + Phạm Thị Liễu 
+                 + Vũ Thị Hường 
